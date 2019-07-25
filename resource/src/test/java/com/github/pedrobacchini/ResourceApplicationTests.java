@@ -1,4 +1,4 @@
-package com.github.pedrobacchini.resource;
+package com.github.pedrobacchini;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

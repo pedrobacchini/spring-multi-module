@@ -22,7 +22,6 @@
         <dependency>
             <groupId>com.github.pedrobacchini</groupId>
             <artifactId>service</artifactId>
-            <version>0.0.1</version>
         </dependency>
     </dependencies>
 
